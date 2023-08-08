@@ -8,3 +8,19 @@ github repo link: https://github.com/singhpratibha98/coffee-house
 ![Assingmenet -4 (Coffee house)  (css)(2)](https://github.com/singhpratibha98/coffee-house/assets/129493126/40892811-45c1-46f0-921a-66fd18c9fb97)
 ![Assingmenet -4 (Coffee house)  (css)(3)](https://github.com/singhpratibha98/coffee-house/assets/129493126/87f6fcf8-be60-46e0-9b53-1e3ecb93fe19)
 ![Assingmenet -4 (Coffee house)  (css)(4)](https://github.com/singhpratibha98/coffee-house/assets/129493126/eefab209-6f9b-42ce-a933-902ddff5e047)
+here we have used html and css command for bulding our coffee house.
+In index.html file wewant to add the search space which is add in nav bar . we make nav bar and add the text into it.
+in coffee house webpage we see that we have different section of coffee mention here so we divide it by section tag.
+In section tag we add a class by coffee menu and within this tag we apply div tag to wach coffee with image using image tag.
+below we see another patragraph which is add in div and by using p tag . we basically apply this div with brown color .
+on the otherhand we see that we have use list within it . here we use orderlist (ol)here .
+lets move in css part in style.css file we apply styling to our css.
+first in universal selector we give margin and padding is zero and apply border-size: border-box.
+In body tag we apply tha color to our full body brown we use rgba color value.
+In nav bar we set his styling by applying the width,height, background-color, box-shadow.
+if we want to apply styling to coffee menu then we apply flex here .we give display:flex, align-element:center.
+in image we apply hover property because while going to image the image is getting hovering.
+
+
+
+
